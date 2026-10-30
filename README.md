@@ -63,11 +63,3 @@ Os dados utilizados são reais e foram retirados do repositório TidyTuesday (Ho
 3. **Antecedência:** Reservas feitas com mais de 90 dias de antecedência têm quase 50% de cancelamento. Reservas de última hora (0 a 7 dias) quase não cancelam (menos de 9%).
 4. **Origem dos turistas:** Portugal é o maior emissor de hóspedes da base, seguido por Reino Unido, França, Alemanha e Espanha.
 5. **Decisão para o negócio:** Criar tarifas promocionais com desconto para quem pagar adiantado sem direito a reembolso (para evitar cancelamentos com mais de 3 meses), e lançar promoções para a baixa temporada no início do ano.
-
----
-
-## Como Rodar o Notebook
-
-Basta abrir o arquivo `projeto_viagem_turismo.ipynb` no Jupyter Notebook ou VS Code e executar as células. 
-
-Os dados são baixados automaticamente direto do link da web, sem necessidade de arquivos externos na pasta.
